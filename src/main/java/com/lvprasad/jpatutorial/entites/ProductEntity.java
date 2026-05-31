@@ -28,7 +28,7 @@ import java.time.LocalDateTime;
                 @Index(name = "category_index", columnList = "category")
         }
 )
-public class Product {
+public class ProductEntity {
 
 
     @Id
